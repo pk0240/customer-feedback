@@ -1,4 +1,4 @@
-🌟 Customer Feedback Management System Developer:
+🌟 Customer Feedback Management System :
 
 Project Type: Full-Stack Web Application (Capstone)
 
