@@ -1,0 +1,8 @@
+package com.feedback;
+
+@SpringBootApplication
+public class FeedbackBackendApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(FeedbackBackendApplication.class, args);
+}
+}
