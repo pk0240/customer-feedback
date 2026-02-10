@@ -1,3 +1,2 @@
-2026/02/09-21:04:16.086 4ba4 Reusing MANIFEST C:\Users\krish\Downloads\customer-backend (1)\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
-2026/02/09-21:04:16.088 4ba4 Recovering log #3
-2026/02/09-21:04:16.092 4ba4 Reusing old log C:\Users\krish\Downloads\customer-backend (1)\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+2026/02/04-12:57:02.018 36bc Creating DB C:\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/02/04-12:57:02.070 36bc Reusing MANIFEST C:\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001

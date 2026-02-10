@@ -1,3 +1,2 @@
-2026/02/09-21:04:14.158 586c Reusing MANIFEST C:\Users\krish\Downloads\customer-backend (1)\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
-2026/02/09-21:04:14.159 586c Recovering log #3
-2026/02/09-21:04:14.159 586c Reusing old log C:\Users\krish\Downloads\customer-backend (1)\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 
+2026/02/04-12:56:50.973 148 Creating DB C:\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db since it was missing.
+2026/02/04-12:56:50.986 148 Reusing MANIFEST C:\customer-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
